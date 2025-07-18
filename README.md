@@ -25,9 +25,6 @@
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="hibernate" width="40" height="40"/>
 </a>
-<a href="https://jakarta.ee/specifications/persistence/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jakarta_EE_logo.svg/512px-Jakarta_EE_logo.svg.png" alt="jpa" width="40" height="40"/>
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
