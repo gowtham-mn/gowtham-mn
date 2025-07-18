@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gowtham</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Java SpringBoot developer from India</h3>
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **gowthamsjbit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gowtham m n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gowtham m n" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/gowtham-m-n-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gowtham m n" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gowthammn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gowthammn" height="30" width="40" /></a>
 </p>
 
